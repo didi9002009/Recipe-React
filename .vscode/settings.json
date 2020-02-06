@@ -3,5 +3,6 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "editor.fontSize": 18
-}
+  "editor.fontSize": 18,
+  "workbench.editor.centeredLayoutAutoResize": true
+}()
